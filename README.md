@@ -45,7 +45,7 @@ not adding value, not helping people, is not telling a story, people will report
 
 * __third piece of advice:__ _Ignorance is no excuse_. Every subreddit has it's rule listed, after you join one make sure to go through the rules and try not to break them, it may cause your account to be banned from that subreddit, which again, is a very bad thing to happen.
 
-### Let's start off our reddit journey with this as of now. Try to maintain only one account as even a single account is hectic enough! Follow what is being said in this repo and inculcate something of your own if you think if that's a good idea. 
+### Let's start off our reddit journey with this as of now. Try to maintain only one account as even a single account is hectic enough! Follow what is being said in this repo and inculcate something of your own if you think that's a good idea. 
 
 If you have any question, you can ask them [here](https://github.com/AbhisekGanguly/reddit-marketing/issues/new).
 
