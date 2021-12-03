@@ -38,12 +38,12 @@ jump into the conversation and add value to the post, add so much value that the
 you've shared.
 
 ### Now I'll discuss some etiquettes of reddit, what you should and shouldn't do as a redditer.
-__first and foremost:__ don't keep posting too much, people of reddit can sniff marketing from miles away and if you're posting something which is
+* __first and foremost:__ don't keep posting too much, people of reddit can sniff marketing from miles away and if you're posting something which is
 not adding value, not helping people, is not telling a story, people will report you and you'll be banned from the subreddit! Make sure you're commenting on other people's post and actively engaging as a community to add value and build trust. If you show up spamming links, no one is going to like it and the chances of success will be a mere zero percent.
 
-__second:__ Don't go on posting the same comment in different reddit pages, reddit have a great mechanism for sniffing out spammer and if you do something like that, chances are that reddit will limit your access in the subreddit and can also get you __BANNED__ which we __DO NOT WANT__ under any cost.
+* __second:__ Don't go on posting the same comment in different reddit pages, reddit have a great mechanism for sniffing out spammer and if you do something like that, chances are that reddit will limit your access in the subreddit and can also get you __BANNED__ which we __DO NOT WANT__ under any cost.
 
-__third piece of advice:__ _Ignorance is no excuse_. Every subreddit has it's rule listed, after you join one make sure to go through the rules and try not to break them, it may cause your account to be banned from that subreddit, which again, is a very bad thing to happen.
+* __third piece of advice:__ _Ignorance is no excuse_. Every subreddit has it's rule listed, after you join one make sure to go through the rules and try not to break them, it may cause your account to be banned from that subreddit, which again, is a very bad thing to happen.
 
 ### Let's start off our reddit journey with this as of now. Try to maintain only one account as even a single account is hectic enough! Follow what is being said in this repo and inculcate something of your own if you think if that's a good idea. 
 
